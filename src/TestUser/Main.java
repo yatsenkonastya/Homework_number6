@@ -45,6 +45,7 @@ public class Main {
 
         User.printTotalAmoundOfSpentMoney();
         User.addDiscount();
+        System.out.println("new changes for new branch");
 
     }
 
